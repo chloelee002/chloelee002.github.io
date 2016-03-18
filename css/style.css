@@ -1,0 +1,21 @@
+h1{
+  color:blue
+}
+body{
+  background:url("http://wallpaper.ultradownloads.com.br/274129_Papel-de-Parede-Face-do-Pikachu_1920x1200.jpg");
+  background-size:cover
+}
+
+div {
+  width:40%;
+  display: inline-block;
+}
+
+.idontknow {
+  margin-left: 10px;
+}
+
+.idoknow {
+  vertical-align: top;
+  margin-left: 50px;
+}
