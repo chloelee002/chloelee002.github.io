@@ -1,0 +1,50 @@
+#pikablocks {
+  background: url("http://mycargopk.com/wp-content/uploads/2014/08/pikachu-cute-wallpaper-pikachu-wallpaper---pokemon-wallpaper---cartoon-watcher---free--photos.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Candal;
+}
+
+h1 {
+  color: white;
+  font-size: 45px;
+  
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+ 
+}
+
+#instructions {
+  width: 200px;
+  color: red;
+  margin-left: 850px;
+  margin-top: 100px;
+  text-align: left;
+  
+  
+}
+
+#clickbutton {
+  background: pink;
+  border: solid 2px black;
+  width: 120px;
+  text-align: center;
+  padding: 15px;
+  margin: 0 auto;
+  margin-top: 20%;
+  cursor: pointer;
+}
+
+#clickbutton a {
+    text-decoration: none;
+  color: black;
+}
+
+#clickbutton:hover {
+  background: red;
+  color: pink;
+}
+  
