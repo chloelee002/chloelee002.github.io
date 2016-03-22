@@ -27,6 +27,7 @@ h1 {
   
 }
 
+
 #clickbutton {
   background: pink;
   border: solid 2px black;
@@ -47,4 +48,39 @@ h1 {
   background: red;
   color: pink;
 }
+
+#pikablock {
+  height: 200;
+  width: 200;
+
+}
+
+.pikablock {
+  background: red;
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  display: inline-block;
+  
+  }
+  
+#block1 {
+background: url("chloelee002.github.io/pikablocks/images/pikablock-square4.jpg
+  ");
+}
+#block2 {
+background: url("chloelee002.github.io/pikablocks/images/pikablock-square1.jpg
+  ");
+}
+#block3 {
+background: url("chloelee002.github.io/pikablocks/images/pikablock-square3.jpg
+  ")
+}
+#block4 {
+background: url("chloelee002.github.io/pikablocks/images/pikablock-square2.jpg
+  ")
+}
+
+
+
   
