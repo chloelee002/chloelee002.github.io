@@ -1,0 +1,93 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#topText {
+  width: 100%;
+  float: left;
+  background-color: #7b7b74;
+}
+
+h1 {
+  color: #15c2d1;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: normal;
+}
+/* entire container, keeps perspective */
+
+#gameArea {
+  width: 880px;
+  display: block;
+  float: left;
+  position: absolute;
+  left: 50%;
+  margin-left: -440px;
+  margin-top: 120px;
+}
+
+.flip-container {
+  perspective: 1000;
+  float: left;
+  margin: 10px;
+}
+/* flip the pane when hovered */
+
+.flip-container,
+.front,
+.back {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+/* flip speed goes here */
+
+.flipper {
+  transition: 0.6s;
+  transform-style: preserve-3d;
+  position: relative;
+}
+/* hide back of pane during swap */
+
+.front,
+.back {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+/* front pane, placed above back */
+
+.front {
+  z-index: 2;
+  background: url("https://farm1.staticflickr.com/95/248462700_77d8811777.jpg");
+  background-size: contain;
+  background-color: #f9a860;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 170px;
+  color: #fff;
+  transform: rotateY(0deg);
+}
+/* back, initially hidden pane */
+
+.back {
+  background: #60daf9;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  transform: rotateY(180deg);
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 170px;
+  color: #fff;
+}
+
+.flipped {
+  transform: rotateY(180deg);
+}http://agar.io/
