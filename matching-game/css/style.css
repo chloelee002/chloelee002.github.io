@@ -62,6 +62,10 @@ h1 {
 }
 /* front pane, placed above back */
 
+.test {
+  background: url("https://farm1.staticflickr.com/95/248462700_77d8811777.jpg") !important;
+}
+
 .front {
   z-index: 2;
   background: url("https://farm1.staticflickr.com/95/248462700_77d8811777.jpg");

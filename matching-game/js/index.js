@@ -66,6 +66,7 @@ function randomNumber() {
 
     //add in Chloe's own image
     $('.back', '#a1').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile1.png")');
+    $('.back', '#a1').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile1.png")');
     $('.back', '#a2').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile2.jpeg")');
     $('.back', '#a3').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile3.jpeg")');
     $('.back', '#a4').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile4.jpeg")');
@@ -73,8 +74,7 @@ function randomNumber() {
     $('.back', '#a6').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile6.jpeg")');
     $('.back', '#a7').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile7.jpeg")');
     $('.back', '#a8').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile8.jpeg")');
-
-
+    
   });
 
 }
