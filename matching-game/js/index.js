@@ -67,12 +67,13 @@ function randomNumber() {
     //add in Chloe's own image
     $('.back', '#a1').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile1.png")');
     $('.back', '#a2').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile2.jpeg")');
-    $('.back', '#a3').css('background', 'url("https://sociorocketnewsen.files.wordpress.com/2014/10/2014-10-20-poop.png")');
-    $('.back', '#a4').css('background', 'url("https://sociorocketnewsen.files.wordpress.com/2014/10/2014-10-20-poop.png")');
+    $('.back', '#a3').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile3.jpeg")');
+    $('.back', '#a4').css('background', 'url("https://chloelee002.github.io/matching-game/images/tile4.jpeg")');
     $('.back', '#a5').css('background', 'url("https://sociorocketnewsen.files.wordpress.com/2014/10/2014-10-20-poop.png")');
     $('.back', '#a6').css('background', 'url("https://sociorocketnewsen.files.wordpress.com/2014/10/2014-10-20-poop.png")');
     $('.back', '#a7').css('background', 'url("https://sociorocketnewsen.files.wordpress.com/2014/10/2014-10-20-poop.png")');
     $('.back', '#a8').css('background', 'url("https://sociorocketnewsen.files.wordpress.com/2014/10/2014-10-20-poop.png")');
+
 
   });
 
