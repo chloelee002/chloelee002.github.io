@@ -6,16 +6,14 @@ var ImgFound = 0;
 var Source = "#boxcard";
 
 var ImgSource = [
-	"http://vignette2.wikia.nocookie.net/pokemon/images/b/b1/025Pikachu_XY_anime_3.png/revision/latest?cb=20140902050035",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6YTYzYTkzOGE3ZDUxYzFlZDg0OGJhMTg0YTdhM2U0MDY=?u=18018b66-54bb-4d69-bc0b-fc83bf17dfc5",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6YzQzYjlkZWFkMzk1MTBhNTk2NDA1ZGQ2NTZmMjYwMTM=?u=c802d506-5a4d-4acc-84f4-8d3bc2ad8589",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6Y2NhMjJiNmQzYjViZjNjMWFiM2ZiNGUwYmNjMDI5NWM=?u=093430dd-efb3-4d6d-ace1-72426e633b96",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6NjM2YjBjYWI0ZjUxZGNkZjE4NjdmZGE0YWQ0NjA4OWE=?u=21644757-ace3-4fc1-bf28-abea7fdc8adc",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6ZWMyNDhiYmVlNGRmNTEyMzAyNWZkZDRkMjFmODM1YTg=?u=83cdafb8-ef5e-4dce-a385-032fd1527a92",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6YWJlZWEyMzc4MWMzZTQwOTM4YjgyNmVhNDVhZjEzM2E=?u=6663059d-0ef9-4b6a-9a85-88be56f417b6",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6NWUyZDE1YmU1YTEyNTQzMTEyNjQwMGRhNjNiNWVhODk=?u=8644168f-e1fa-495f-8797-900fd0ee0039",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6ZDhmNzg2MmZjMTM1NjAyYTdiYTNiNjBlNmY4Y2FiMGI=?u=a627182f-15ad-4632-9047-baea111d429d",
-	"https://cache.nebula.phx3.secureserver.net/obj/Q0IzODdDOTI5OEEwMTM5RDkwMTc6YjNkODVhMGFkOTViYTVlYWJkZGU3ODE0NmVlZjRhMTA=?u=e74710a1-6e73-461c-863d-e1c73fe4251a"
+	"http://chloelee002.github.io/pokemonmatch/images/tile1.png",
+	"http://chloelee002.github.io/pokemonmatch/images/tile2.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile3.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile4.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile5.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile6.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile7.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile8.jpeg",
 	];
 
 function RandomFunction(MaxValue, MinValue) {
