@@ -6,10 +6,6 @@ var ImgFound = 0;
 var Source = "#boxcard";
 
 var ImgSource = [
-	"http://chloelee002.github.io/pikablocks/images/tile1.png",
-	"http://chloelee002.github.io/pikablocks/images/tile2.jpeg",
-	"http://chloelee002.github.io/pikablocks/images/tile3.jpeg",
-	"http://chloelee002.github.io/pikablocks/images/tile4.jpeg",
 	"http://chloelee002.github.io/pikablocks/images/tile5.jpeg",
 	"http://chloelee002.github.io/pikablocks/images/tile6.jpeg",
 	"http://chloelee002.github.io/pikablocks/images/tile7.jpeg",
