@@ -16,6 +16,10 @@ var ImgSource = [
 	"http://chloelee002.github.io/pikablocks/images/tile8.jpeg",
 	"http://chloelee002.github.io/pikablocks/images/tile9.png",
 	"http://chloelee002.github.io/pikablocks/images/tile10.png",
+	"http://chloelee002.github.io/pikablocks/images/tile11.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile12.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile13.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile14.jpeg",
 	];
 
 function RandomFunction(MaxValue, MinValue) {
@@ -112,3 +116,6 @@ for (var y = 1; y < 3 ; y++) {
 	$(Source + " div").click(OpenCard);
 	ShuffleImages();
 });
+
+
+
