@@ -14,6 +14,8 @@ var ImgSource = [
 	"http://chloelee002.github.io/pokemonmatch/images/tile6.jpeg",
 	"http://chloelee002.github.io/pokemonmatch/images/tile7.jpeg",
 	"http://chloelee002.github.io/pokemonmatch/images/tile8.jpeg",
+	"http://chloelee002.github.io/pokemonmatch/images/tile9.png",
+	"http://chloelee002.github.io/pokemonmatch/images/tile10.png"
 	];
 
 function RandomFunction(MaxValue, MinValue) {
