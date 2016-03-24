@@ -16,6 +16,7 @@ body {
 	margin: 1px 0 0;
 }
 #boxcard div{
+	background: url("http://chloelee002.github.io/pikablocks/images/pikablock-square.jpg.jpeg");
 	float: left;
 	width: 100px;
 	height: 100px;
@@ -25,7 +26,7 @@ body {
 	cursor: pointer;
 	border-radius: 10px;
 	box-shadow: 0 1px 5px rgba(0,0,0,.5);
-	background: url("http://chloelee002.github.io/pikablocks/images/pikablock-square.jpeg");
+	background-color: pink; 
 	z-index: 2;
 }
 #boxcard div img {
