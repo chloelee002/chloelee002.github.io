@@ -2,11 +2,22 @@
 	margin: 0;
 	padding: 0;
 }
+
+#pikablocks{
+	background:url("http://img08.deviantart.net/3809/i/2012/178/5/d/pikachu_wallpaper_by_moustachegirl05-d553a9m.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+}
+
 body {
 	font: 18px Courier;
 	color: white;
 	background: url("http://chloelee002.github.io/pikablocks/images/wallpaper.jpeg");
-	background-size: fit 
+	background-size: cover; 
 }
 #picbox {
 	margin: 0px auto;
