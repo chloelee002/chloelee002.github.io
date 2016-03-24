@@ -99,7 +99,9 @@ function OpenCard() {
 
 		if (ImgFound == ImgSource.length) {
 			$("#counter").prepend('<span id="success">Annabella is so smart! It took </span>');
-			
+			<div id="clickbutton">;
+			<a href="lv2game.html">PLAY</a>;
+
 		}
 	}
 }
@@ -113,3 +115,7 @@ for (var y = 1; y < 3 ; y++) {
 }
 	$(Source + " div").click(OpenCard);
 	ShuffleImages();
+});
+
+
+
