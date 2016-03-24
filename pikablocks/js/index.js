@@ -6,16 +6,16 @@ var ImgFound = 0;
 var Source = "#boxcard";
 
 var ImgSource = [
-	"http://vignette2.wikia.nocookie.net/pokemon/images/b/b1/025Pikachu_XY_anime_3.png/revision/latest?cb=20140902050035",
-	"http://chloelee002.github.io/pokemonmatch/images/tile2.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile3.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile4.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile5.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile6.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile7.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile8.jpeg",
-	"http://chloelee002.github.io/pokemonmatch/images/tile9.png",
-	"http://chloelee002.github.io/pokemonmatch/images/tile10.png"
+"http://chloelee002.github.io/pikablocks/images/tile1.jpeg"
+	"http://chloelee002.github.io/pikablocks/images/tile2.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile3.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile4.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile5.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile6.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile7.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile8.jpeg",
+	"http://chloelee002.github.io/pikablocks/images/tile9.png",
+	"http://chloelee002.github.io/pikablocks/images/tile10.png",
 	];
 
 function RandomFunction(MaxValue, MinValue) {
